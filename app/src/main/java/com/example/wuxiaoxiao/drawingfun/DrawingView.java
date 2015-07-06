@@ -6,18 +6,26 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffXfermode;
 import android.util.AttributeSet;
+import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
 
 
+
 public class DrawingView extends View {
+
+    private float brushSize, lastBrushSize;
 
     private Path drawPath;
     private Paint drawPaint, canvasPaint;
     private int paintColor = 0xff6600;
     private Canvas drawCanvas;
     private Bitmap canvasBitmap;
+
+    private boolean erase = false;
 
     public DrawingView(Context context, AttributeSet attrs) {
         super(context, attrs);
@@ -27,14 +35,32 @@ public class DrawingView extends View {
     public void setUpDrawing(){
         drawPath = new Path();
         drawPaint = new Paint();
-        drawPaint.setColor(paintColor);
 
+        brushSize = getResources().getInteger(R.integer.medium_size);
+        lastBrushSize = brushSize;
+        drawPaint.setColor(paintColor);
         drawPaint.setAntiAlias(true);
-        drawPaint.setStrokeWidth(20);
+        drawPaint.setStrokeWidth(brushSize);
         drawPaint.setStrokeJoin(Paint.Join.ROUND);
         drawPaint.setStrokeCap(Paint.Cap.ROUND);
 
         canvasPaint = new Paint(Paint.DITHER_FLAG);//paint.dither_flag is a android.graphics
+
+
+    }
+
+    public void setBrushSize(float newSize){
+        float pixelAmount = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,
+                newSize, getResources().getDisplayMetrics());
+        brushSize=pixelAmount;
+        drawPaint.setStrokeWidth(brushSize);
+    }
+
+    public void setLastBrushSize(float lastSize){
+        lastBrushSize=lastSize;
+    }
+    public float getLastBrushSize(){
+        return lastBrushSize;
     }
 
     @Override
@@ -80,6 +106,15 @@ public class DrawingView extends View {
         invalidate();
         paintColor = Color.parseColor(newColor);//parseColor turns a string code to color
         drawPaint.setColor(paintColor);
+    }
+
+    public void setErase(boolean isErase){
+        erase = isErase;
+        if(erase) {
+            drawPaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.CLEAR));
+        }else{
+            drawPaint.setXfermode(null);
+        }
     }
 
 }
