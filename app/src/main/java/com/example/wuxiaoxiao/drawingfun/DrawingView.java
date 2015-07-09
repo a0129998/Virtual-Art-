@@ -43,6 +43,7 @@ public class DrawingView extends View {
         drawPaint.setStrokeWidth(brushSize);
         drawPaint.setStrokeJoin(Paint.Join.ROUND);
         drawPaint.setStrokeCap(Paint.Cap.ROUND);
+        drawPaint.setStyle(Paint.Style.STROKE);
 
         canvasPaint = new Paint(Paint.DITHER_FLAG);//paint.dither_flag is a android.graphics
 
@@ -115,6 +116,11 @@ public class DrawingView extends View {
         }else{
             drawPaint.setXfermode(null);
         }
+    }
+
+    public void startNew(){
+        drawCanvas.drawColor(0, PorterDuff.Mode.CLEAR);//clear everything
+        invalidate();//update
     }
 
 }
