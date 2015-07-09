@@ -46,7 +46,7 @@
             android:src="@drawable/save" />
     </LinearLayout>
 
-    <com.example.drawingfun.DrawingView
+    <com.example.wuxiaoxiao.drawingfun.DrawingView
         android:id="@+id/drawing"
         android:layout_width="fill_parent"
         android:layout_height="0dp"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\pre-dexed\debug\classes-6cd2dda16a2b72221e103a94ce8477deeaf5995f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wu XiaoXiao\AppData\Local\Android\sdk5\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-84af6dc1e5b33e13ccde29615846b5353511b842.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\pre-dexed\debug\classes-cc838e26e1850cb0c11bdece3de24a9b99865320.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Wu XiaoXiao\AndroidStudioProjects\cloned\drawingfun\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9513d1c23f01ab3fcd147d78df464c3b35cd0f1a.jar" />
+    </item>
+
+</items>
