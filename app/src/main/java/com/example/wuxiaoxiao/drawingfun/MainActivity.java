@@ -76,7 +76,11 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
     public void paintClicked(View view){
         drawingView.setErase(false);
         drawingView.setBrushSize(drawingView.getLastBrushSize());
-        if(view != currPaint){// view is the button clicked, first check that it is not already selected
+        if(view.getId() == R.id.circle){
+            drawingView.isCircle(true);
+        }else if (view.getId() == R.id.stroke){
+            drawingView.isCircle(false);
+        }if(view != currPaint){// view is the button clicked, first check that it is not already selected
             ImageButton imgView = (ImageButton)view;
             String color = view.getTag().toString();
             drawingView.setColor(color);
@@ -117,7 +121,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
             });
 
             ImageButton largeBtn = (ImageButton)brushDialog.findViewById(R.id.large_brush);
-            largeBtn.setOnClickListener(new OnClickListener(){
+            largeBtn.setOnClickListener(new OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     drawingView.setErase(false);
@@ -209,5 +213,26 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
             });
             saveDialog.show();
         }
+    }
+
+    public void changeBackground(String str){
+        DrawingView d = (DrawingView)findViewById(R.id.drawing);
+
+        if(str == "bird"){
+            d.setBackgroundResource(R.drawable.bird);
+
+        }else if(str == "fish"){
+            d.setBackgroundResource(R.drawable.fish);
+        }else{
+
+        }
+    }
+
+    public void setBird(View v){
+        changeBackground("bird");
+    }
+
+    public void setFish(View v){
+        changeBackground("fish");
     }
 }

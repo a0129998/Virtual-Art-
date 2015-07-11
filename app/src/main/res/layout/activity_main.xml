@@ -44,6 +44,16 @@
             android:layout_height="fill_parent"
             android:contentDescription="@string/save"
             android:src="@drawable/save" />
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:text="bird"
+            android:onClick="setBird"/>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:text="fish"
+            android:onClick="setFish"/>
     </LinearLayout>
 
     <com.example.wuxiaoxiao.drawingfun.DrawingView
@@ -55,7 +65,7 @@
         android:layout_marginRight="5dp"
         android:layout_marginTop="3dp"
         android:layout_weight="1"
-        android:background="#FFFFFF" />
+        android:background="@drawable/bird"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -129,6 +139,17 @@
                 android:onClick="paintClicked"
                 android:src="@drawable/paint"
                 android:tag="#FF009999" />
+
+            <ImageButton
+                android:layout_width="@dimen/large_brush"
+                android:layout_height="@dimen/large_brush"
+                android:layout_margin="2dp"
+                android:background="#ffffffff"
+                android:id="@+id/circle"
+                android:contentDescription="@string/paint"
+                android:onClick="paintClicked"
+                android:src="@drawable/paint"
+                android:tag="#FFFFFFFF" />
         </LinearLayout>
         <!-- Bottom Row -->
         <LinearLayout
@@ -195,6 +216,17 @@
                 android:onClick="paintClicked"
                 android:src="@drawable/paint"
                 android:tag="#FF000000" />
+
+            <ImageButton
+                android:layout_width="@dimen/large_brush"
+                android:layout_height="@dimen/large_brush"
+                android:layout_margin="2dp"
+                android:background="#FFFFFFFF"
+                android:contentDescription="@string/paint"
+                android:onClick="paintClicked"
+                android:src="@drawable/paint"
+                android:tag="#FFFFFFFF"
+                android:id="@+id/stroke"/>
         </LinearLayout>
 
     </LinearLayout>

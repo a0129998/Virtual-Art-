@@ -6,6 +6,7 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
+import android.graphics.Point;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 import android.util.AttributeSet;
@@ -13,6 +14,7 @@ import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
 
+import java.util.ArrayList;
 
 
 public class DrawingView extends View {
@@ -21,11 +23,12 @@ public class DrawingView extends View {
 
     private Path drawPath;
     private Paint drawPaint, canvasPaint;
-    private int paintColor = 0xff6600;
+    private int paintColor = 0xff660000;
     private Canvas drawCanvas;
     private Bitmap canvasBitmap;
+    private ArrayList<Point> circlePoints;
 
-    private boolean erase = false;
+    private boolean erase = false, circle = false;
 
     public DrawingView(Context context, AttributeSet attrs) {
         super(context, attrs);
@@ -46,7 +49,7 @@ public class DrawingView extends View {
         drawPaint.setStyle(Paint.Style.STROKE);
 
         canvasPaint = new Paint(Paint.DITHER_FLAG);//paint.dither_flag is a android.graphics
-
+        circlePoints = new ArrayList<Point>();
 
     }
 
@@ -75,28 +78,38 @@ public class DrawingView extends View {
 
     @Override
     protected void onDraw(Canvas canvas){
-        canvas.drawBitmap(canvasBitmap, 0, 0, canvasPaint);
-        canvas.drawPath(drawPath, drawPaint);
+        if(circle == false) {
+            canvas.drawBitmap(canvasBitmap, 0, 0, canvasPaint);
+            canvas.drawPath(drawPath, drawPaint);
+        }else{
+            for(Point p: circlePoints) {
+                canvas.drawCircle(p.x, p.y, 10, drawPaint);
+            }
+        }
     }
 
     @Override
     public boolean onTouchEvent(MotionEvent event){
         float touchX = event.getX();
         float touchY = event.getY();
+        if(circle) {
+            circlePoints.add(new Point(Math.round(touchX), Math.round(touchX)));
+        }else {
 
-        switch (event.getAction()) {
-            case MotionEvent.ACTION_DOWN://touch the view
-                drawPath.moveTo(touchX, touchY);
-                break;
-            case MotionEvent.ACTION_MOVE://drag the finger
-                drawPath.lineTo(touchX, touchY);
-                break;
-            case MotionEvent.ACTION_UP://lift the finger
-                drawCanvas.drawPath(drawPath, drawPaint);
-                drawPath.reset();
-                break;
-            default:
-                return false;
+            switch (event.getAction()) {
+                case MotionEvent.ACTION_DOWN://touch the view
+                    drawPath.moveTo(touchX, touchY);
+                    break;
+                case MotionEvent.ACTION_MOVE://drag the finger
+                    drawPath.lineTo(touchX, touchY);
+                    break;
+                case MotionEvent.ACTION_UP://lift the finger
+                    drawCanvas.drawPath(drawPath, drawPaint);
+                    drawPath.reset();
+                    break;
+                default:
+                    return false;
+            }
         }
 
         invalidate();//causes onDraw to execute
@@ -121,6 +134,10 @@ public class DrawingView extends View {
     public void startNew(){
         drawCanvas.drawColor(0, PorterDuff.Mode.CLEAR);//clear everything
         invalidate();//update
+    }
+
+    public void isCircle(boolean cir){
+        circle = cir;
     }
 
 }
