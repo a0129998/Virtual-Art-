@@ -223,8 +223,16 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
 
         }else if(str == "fish"){
             d.setBackgroundResource(R.drawable.fish);
+        }else if(str == "kitty"){
+            d.setBackgroundResource(R.drawable.hellokitty);
+        }else if(str == "christmas"){
+            d.setBackgroundResource(R.drawable.christmas);
+        }else if(str == "human"){
+            d.setBackgroundResource(R.drawable.human);
+        }else if (str == "bear"){
+            d.setBackgroundResource(R.drawable.bear);
         }else{
-
+            d.setBackgroundResource(R.drawable.blank);
         }
     }
 
@@ -234,5 +242,25 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
 
     public void setFish(View v){
         changeBackground("fish");
+    }
+
+    public void setKitty(View v){
+        changeBackground("kitty");
+    }
+
+    public void setChristmas(View v){
+        changeBackground("christmas");
+    }
+
+    public void setHumanChild(View v){
+        changeBackground("human");
+    }
+
+    public void setBear(View v){
+        changeBackground("bear");
+    }
+
+    public void setBlank(View v){
+        changeBackground("");
     }
 }
