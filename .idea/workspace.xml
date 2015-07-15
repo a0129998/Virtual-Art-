@@ -43,16 +43,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36811024">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding>
-                <element signature="e#1284#1331#0" expanded="true" />
-                <element signature="e#1355#1403#0" expanded="true" />
-                <element signature="e#1426#1473#0" expanded="true" />
+                <element signature="e#563#588#0" expanded="true" />
+                <element signature="e#725#743#0" expanded="true" />
+                <element signature="e#1245#1263#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.92">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.28">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,10 +110,11 @@
       <file leaf-file-name="DrawingView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="false" />
+                <element signature="e#1096#1144#0" expanded="false" />
                 <element signature="e#1922#1923#0" expanded="false" />
                 <element signature="e#1960#1961#0" expanded="false" />
                 <element signature="e#1997#1998#0" expanded="false" />
@@ -75,21 +126,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9332024">
-              <caret line="332" column="12" selection-start-line="332" selection-start-column="12" selection-end-line="332" selection-end-column="12" />
+            <state vertical-scroll-proportion="-82.76316">
+              <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
               <folding>
                 <element signature="e#233#268#0" expanded="true" />
                 <element signature="e#294#329#0" expanded="true" />
@@ -126,44 +170,55 @@
                 <element signature="e#8246#8266#0" expanded="true" />
                 <element signature="e#8305#8325#0" expanded="true" />
                 <element signature="e#8458#8473#0" expanded="true" />
-                <element signature="e#8671#8691#0" expanded="true" />
-                <element signature="e#8730#8750#0" expanded="true" />
-                <element signature="e#8883#8898#0" expanded="true" />
-                <element signature="e#9314#9334#0" expanded="true" />
-                <element signature="e#9373#9393#0" expanded="true" />
-                <element signature="e#9528#9543#0" expanded="true" />
-                <element signature="e#9743#9763#0" expanded="true" />
-                <element signature="e#9802#9822#0" expanded="true" />
-                <element signature="e#9957#9972#0" expanded="true" />
-                <element signature="e#10172#10192#0" expanded="true" />
-                <element signature="e#10231#10251#0" expanded="true" />
-                <element signature="e#10386#10401#0" expanded="true" />
-                <element signature="e#10601#10621#0" expanded="true" />
-                <element signature="e#10660#10680#0" expanded="true" />
-                <element signature="e#10815#10830#0" expanded="true" />
-                <element signature="e#11030#11050#0" expanded="true" />
-                <element signature="e#11089#11109#0" expanded="true" />
-                <element signature="e#11244#11259#0" expanded="true" />
-                <element signature="e#11459#11479#0" expanded="true" />
-                <element signature="e#11518#11538#0" expanded="true" />
-                <element signature="e#11673#11688#0" expanded="true" />
-                <element signature="e#11888#11908#0" expanded="true" />
-                <element signature="e#11947#11967#0" expanded="true" />
-                <element signature="e#12100#12115#0" expanded="true" />
+                <element signature="e#8889#8909#0" expanded="true" />
+                <element signature="e#8948#8968#0" expanded="true" />
+                <element signature="e#9103#9118#0" expanded="true" />
+                <element signature="e#9318#9338#0" expanded="true" />
+                <element signature="e#9377#9397#0" expanded="true" />
+                <element signature="e#9532#9547#0" expanded="true" />
+                <element signature="e#9747#9767#0" expanded="true" />
+                <element signature="e#9806#9826#0" expanded="true" />
+                <element signature="e#9961#9976#0" expanded="true" />
+                <element signature="e#10176#10196#0" expanded="true" />
+                <element signature="e#10235#10255#0" expanded="true" />
+                <element signature="e#10390#10405#0" expanded="true" />
+                <element signature="e#10605#10625#0" expanded="true" />
+                <element signature="e#10664#10684#0" expanded="true" />
+                <element signature="e#10819#10834#0" expanded="true" />
+                <element signature="e#11034#11054#0" expanded="true" />
+                <element signature="e#11093#11113#0" expanded="true" />
+                <element signature="e#11248#11263#0" expanded="true" />
+                <element signature="e#11463#11483#0" expanded="true" />
+                <element signature="e#11522#11542#0" expanded="true" />
+                <element signature="e#11675#11690#0" expanded="true" />
+                <element signature="e#11887#11907#0" expanded="true" />
+                <element signature="e#11946#11966#0" expanded="true" />
+                <element signature="e#12099#12114#0" expanded="true" />
                 <element signature="e#12312#12332#0" expanded="true" />
                 <element signature="e#12371#12391#0" expanded="true" />
                 <element signature="e#12524#12539#0" expanded="true" />
-                <element signature="e#12737#12757#0" expanded="true" />
-                <element signature="e#12796#12816#0" expanded="true" />
-                <element signature="e#12949#12964#0" expanded="true" />
-                <element signature="e#13162#13182#0" expanded="true" />
-                <element signature="e#13221#13241#0" expanded="true" />
-                <element signature="e#13374#13389#0" expanded="true" />
               </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
+        </entry>
+      </file>
+      <file leaf-file-name="christmas.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/christmas.png">
+          <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="large.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/large.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="e#153#173#0" expanded="true" />
+                <element signature="e#196#216#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -193,6 +248,10 @@
               <ExternalProjectPojo>
                 <option name="name" value=":app" />
                 <option name="path" value="$PROJECT_DIR$/app" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":facebook" />
+                <option name="path" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="drawingfun" />
@@ -592,6 +651,11 @@
                 <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.facebook.android:facebook:4.4.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComFacebookAndroidFacebook441Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
@@ -706,11 +770,556 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="androidJavadocs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="androidJavadocsJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="androidSourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all the Test applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleDefault" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="assembleReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in Debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="bundleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in Release." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="bundleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="checkDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="checkReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugAndroidTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="compileReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="connectedAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for Debug build on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="connectedAndroidTestDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="copyDebugLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="copyReleaseLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="deviceAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="dexDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="extractDebugAnnotations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="extractReleaseAnnotations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeDebugProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeReleaseProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="mockableAndroidJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageDebugJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageDebugJniLibs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageDebugLocalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageReleaseJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageReleaseJniLibs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageReleaseLocalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preCompileDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preCompileReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preDexDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="preReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="prepareDebugAndroidTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="prepareDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="prepareReleaseUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="setVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="signArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="testDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="testRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="uninstallDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':facebook:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4308508334334" />
+        <entry key="$PROJECT_DIR$" value="5747746485499" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -885,6 +1494,90 @@
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
+                  <entry key="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.2.2/gradle-1.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.2.2/gradle-1.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.2.2/gradle-core-1.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.2.2/gradle-core-1.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.2.2/lint-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.2.2/lint-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.2.2/builder-1.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.2.2/builder-1.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.2.2/lint-checks-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.2.2/lint-checks-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.2.2/sdk-common-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.2.2/sdk-common-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.2.2/builder-test-api-1.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.2.2/builder-test-api-1.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.2.2/ddmlib-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.2.2/ddmlib-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.2.2/builder-model-1.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.2.2/builder-model-1.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.2.2/common-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.2.2/common-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.2.2/manifest-merger-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.2.2/manifest-merger-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.2.2/sdklib-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.2.2/sdklib-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.2.2/lint-api-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.2.2/lint-api-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.2.2/annotations-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.2.2/annotations-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.2.2/dvlib-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.2.2/dvlib-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.2.2/layoutlib-api-24.2.2-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.2.2/layoutlib-api-24.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/sdk5/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/sdk5/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
                 </map>
               </option>
               <option name="name" value="app" />
@@ -963,14 +1656,16 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/paint.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/paint_pressed.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/brush_chooser.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/small.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/medium.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/large.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -995,10 +1690,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1046" />
+    <option name="x" value="966" />
+    <option name="width" value="954" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1011,7 +1705,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1023,6 +1717,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1051,11 +1746,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gradle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wrapper" />
+              <option name="myItemId" value="facebook-android-sdk-4.4.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1069,33 +1760,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
+              <option name="myItemId" value="facebook-android-sdk-4.4.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intermediates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawingfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawingfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intermediates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dex-cache" />
+              <option name="myItemId" value="facebook" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1187,7 +1856,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
+              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1206,48 +1875,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawingfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawingfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawingfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="androidTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawingfun" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1266,15 +1893,131 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intermediates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.2.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taskArtifacts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawingfun" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1300,6 +2043,31 @@
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1465,11 +2233,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1046" extended-state="7" />
+    <frame x="966" y="0" width="954" height="1024" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31132075" sideWeight="0.48711064" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30660376" sideWeight="0.47560975" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1477,13 +2245,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32524273" sideWeight="0.48711064" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32429245" sideWeight="0.4805492" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33252427" sideWeight="0.48066595" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31132075" sideWeight="0.5128894" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34019372" sideWeight="0.47254005" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34019372" sideWeight="0.52746" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37003222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36956522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1542,24 +2310,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="225" column="14" selection-start-line="225" selection-start-column="14" selection-end-line="225" selection-end-column="14" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
             <element signature="e#1922#1923#0" expanded="false" />
             <element signature="e#1960#1961#0" expanded="false" />
             <element signature="e#1997#1998#0" expanded="false" />
@@ -1579,6 +2336,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
@@ -1618,55 +2378,42 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="225" column="14" selection-start-line="225" selection-start-column="14" selection-end-line="225" selection-end-column="14" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1676,6 +2423,7 @@
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
             <element signature="e#1922#1923#0" expanded="false" />
             <element signature="e#1960#1961#0" expanded="false" />
             <element signature="e#1997#1998#0" expanded="false" />
@@ -1695,6 +2443,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
@@ -1734,55 +2485,149 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="198" column="65" selection-start-line="198" selection-start-column="65" selection-end-line="198" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
+            <element signature="e#233#268#0" expanded="true" />
+            <element signature="e#294#329#0" expanded="true" />
+            <element signature="e#353#386#0" expanded="true" />
+            <element signature="e#413#446#0" expanded="true" />
+            <element signature="e#930#949#0" expanded="true" />
+            <element signature="e#1192#1207#0" expanded="true" />
+            <element signature="e#1450#1465#0" expanded="true" />
+            <element signature="e#1706#1720#0" expanded="true" />
+            <element signature="e#4822#4842#0" expanded="true" />
+            <element signature="e#4881#4901#0" expanded="true" />
+            <element signature="e#5036#5051#0" expanded="true" />
+            <element signature="e#5251#5271#0" expanded="true" />
+            <element signature="e#5310#5330#0" expanded="true" />
+            <element signature="e#5465#5480#0" expanded="true" />
+            <element signature="e#5680#5700#0" expanded="true" />
+            <element signature="e#5739#5759#0" expanded="true" />
+            <element signature="e#5894#5909#0" expanded="true" />
+            <element signature="e#6109#6129#0" expanded="true" />
+            <element signature="e#6168#6188#0" expanded="true" />
+            <element signature="e#6323#6338#0" expanded="true" />
+            <element signature="e#6538#6558#0" expanded="true" />
+            <element signature="e#6597#6617#0" expanded="true" />
+            <element signature="e#6752#6767#0" expanded="true" />
+            <element signature="e#6967#6987#0" expanded="true" />
+            <element signature="e#7026#7046#0" expanded="true" />
+            <element signature="e#7181#7196#0" expanded="true" />
+            <element signature="e#7396#7416#0" expanded="true" />
+            <element signature="e#7455#7475#0" expanded="true" />
+            <element signature="e#7608#7623#0" expanded="true" />
+            <element signature="e#7821#7841#0" expanded="true" />
+            <element signature="e#7880#7900#0" expanded="true" />
+            <element signature="e#8033#8048#0" expanded="true" />
+            <element signature="e#8246#8266#0" expanded="true" />
+            <element signature="e#8305#8325#0" expanded="true" />
+            <element signature="e#8458#8473#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
+            <element signature="e#12312#12332#0" expanded="true" />
+            <element signature="e#12371#12391#0" expanded="true" />
+            <element signature="e#12524#12539#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
+            <element signature="e#1922#1923#0" expanded="false" />
+            <element signature="e#1960#1961#0" expanded="false" />
+            <element signature="e#1997#1998#0" expanded="false" />
+            <element signature="e#2033#2034#0" expanded="false" />
+            <element signature="e#4222#4223#0" expanded="false" />
+            <element signature="e#4250#4251#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="198" column="65" selection-start-line="198" selection-start-column="65" selection-end-line="198" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1826,44 +2671,35 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
@@ -1872,6 +2708,7 @@
           <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
             <element signature="e#1922#1923#0" expanded="false" />
             <element signature="e#1960#1961#0" expanded="false" />
             <element signature="e#1997#1998#0" expanded="false" />
@@ -1894,124 +2731,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="198" column="65" selection-start-line="198" selection-start-column="65" selection-end-line="198" selection-end-column="65" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding>
-            <element signature="e#233#268#0" expanded="true" />
-            <element signature="e#294#329#0" expanded="true" />
-            <element signature="e#353#386#0" expanded="true" />
-            <element signature="e#413#446#0" expanded="true" />
-            <element signature="e#930#949#0" expanded="true" />
-            <element signature="e#1192#1207#0" expanded="true" />
-            <element signature="e#1450#1465#0" expanded="true" />
-            <element signature="e#1706#1720#0" expanded="true" />
-            <element signature="e#4822#4842#0" expanded="true" />
-            <element signature="e#4881#4901#0" expanded="true" />
-            <element signature="e#5036#5051#0" expanded="true" />
-            <element signature="e#5251#5271#0" expanded="true" />
-            <element signature="e#5310#5330#0" expanded="true" />
-            <element signature="e#5465#5480#0" expanded="true" />
-            <element signature="e#5680#5700#0" expanded="true" />
-            <element signature="e#5739#5759#0" expanded="true" />
-            <element signature="e#5894#5909#0" expanded="true" />
-            <element signature="e#6109#6129#0" expanded="true" />
-            <element signature="e#6168#6188#0" expanded="true" />
-            <element signature="e#6323#6338#0" expanded="true" />
-            <element signature="e#6538#6558#0" expanded="true" />
-            <element signature="e#6597#6617#0" expanded="true" />
-            <element signature="e#6752#6767#0" expanded="true" />
-            <element signature="e#6967#6987#0" expanded="true" />
-            <element signature="e#7026#7046#0" expanded="true" />
-            <element signature="e#7181#7196#0" expanded="true" />
-            <element signature="e#7396#7416#0" expanded="true" />
-            <element signature="e#7455#7475#0" expanded="true" />
-            <element signature="e#7608#7623#0" expanded="true" />
-            <element signature="e#7821#7841#0" expanded="true" />
-            <element signature="e#7880#7900#0" expanded="true" />
-            <element signature="e#8033#8048#0" expanded="true" />
-            <element signature="e#8246#8266#0" expanded="true" />
-            <element signature="e#8305#8325#0" expanded="true" />
-            <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
-            <element signature="e#12312#12332#0" expanded="true" />
-            <element signature="e#12371#12391#0" expanded="true" />
-            <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1922#1923#0" expanded="false" />
-            <element signature="e#1960#1961#0" expanded="false" />
-            <element signature="e#1997#1998#0" expanded="false" />
-            <element signature="e#2033#2034#0" expanded="false" />
-            <element signature="e#4222#4223#0" expanded="false" />
-            <element signature="e#4250#4251#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="198" column="65" selection-start-line="198" selection-start-column="65" selection-end-line="198" selection-end-column="65" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2055,39 +2775,33 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2098,6 +2812,7 @@
           <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
             <element signature="e#1922#1923#0" expanded="false" />
             <element signature="e#1960#1961#0" expanded="false" />
             <element signature="e#1997#1998#0" expanded="false" />
@@ -2120,11 +2835,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2168,39 +2879,33 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2211,6 +2916,7 @@
           <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
             <element signature="e#1922#1923#0" expanded="false" />
             <element signature="e#1960#1961#0" expanded="false" />
             <element signature="e#1997#1998#0" expanded="false" />
@@ -2225,11 +2931,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2301,39 +3003,33 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2366,6 +3062,7 @@
           <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
             <element signature="e#1922#1923#0" expanded="false" />
             <element signature="e#1960#1961#0" expanded="false" />
             <element signature="e#1997#1998#0" expanded="false" />
@@ -2380,11 +3077,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2428,39 +3121,33 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2486,88 +3173,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/small.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/brush_chooser.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/large.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/small.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#153#173#0" expanded="false" />
+            <element signature="e#196#216#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/medium.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.52">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1922#1923#0" expanded="false" />
-            <element signature="e#1960#1961#0" expanded="false" />
-            <element signature="e#1997#1998#0" expanded="false" />
-            <element signature="e#2033#2034#0" expanded="false" />
-            <element signature="e#4222#4223#0" expanded="false" />
-            <element signature="e#4250#4251#0" expanded="false" />
+            <element signature="e#153#174#0" expanded="false" />
+            <element signature="e#197#218#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/large.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#153#173#0" expanded="true" />
+            <element signature="e#196#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/brush_chooser.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.368421">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
-          <folding>
-            <element signature="e#1284#1331#0" expanded="true" />
-            <element signature="e#1355#1403#0" expanded="true" />
-            <element signature="e#1426#1473#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/christmas.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9332024">
-          <caret line="332" column="12" selection-start-line="332" selection-start-column="12" selection-end-line="332" selection-end-column="12" />
+        <state vertical-scroll-proportion="-82.76316">
+          <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
           <folding>
             <element signature="e#233#268#0" expanded="true" />
             <element signature="e#294#329#0" expanded="true" />
@@ -2604,44 +3273,104 @@
             <element signature="e#8246#8266#0" expanded="true" />
             <element signature="e#8305#8325#0" expanded="true" />
             <element signature="e#8458#8473#0" expanded="true" />
-            <element signature="e#8671#8691#0" expanded="true" />
-            <element signature="e#8730#8750#0" expanded="true" />
-            <element signature="e#8883#8898#0" expanded="true" />
-            <element signature="e#9314#9334#0" expanded="true" />
-            <element signature="e#9373#9393#0" expanded="true" />
-            <element signature="e#9528#9543#0" expanded="true" />
-            <element signature="e#9743#9763#0" expanded="true" />
-            <element signature="e#9802#9822#0" expanded="true" />
-            <element signature="e#9957#9972#0" expanded="true" />
-            <element signature="e#10172#10192#0" expanded="true" />
-            <element signature="e#10231#10251#0" expanded="true" />
-            <element signature="e#10386#10401#0" expanded="true" />
-            <element signature="e#10601#10621#0" expanded="true" />
-            <element signature="e#10660#10680#0" expanded="true" />
-            <element signature="e#10815#10830#0" expanded="true" />
-            <element signature="e#11030#11050#0" expanded="true" />
-            <element signature="e#11089#11109#0" expanded="true" />
-            <element signature="e#11244#11259#0" expanded="true" />
-            <element signature="e#11459#11479#0" expanded="true" />
-            <element signature="e#11518#11538#0" expanded="true" />
-            <element signature="e#11673#11688#0" expanded="true" />
-            <element signature="e#11888#11908#0" expanded="true" />
-            <element signature="e#11947#11967#0" expanded="true" />
-            <element signature="e#12100#12115#0" expanded="true" />
+            <element signature="e#8889#8909#0" expanded="true" />
+            <element signature="e#8948#8968#0" expanded="true" />
+            <element signature="e#9103#9118#0" expanded="true" />
+            <element signature="e#9318#9338#0" expanded="true" />
+            <element signature="e#9377#9397#0" expanded="true" />
+            <element signature="e#9532#9547#0" expanded="true" />
+            <element signature="e#9747#9767#0" expanded="true" />
+            <element signature="e#9806#9826#0" expanded="true" />
+            <element signature="e#9961#9976#0" expanded="true" />
+            <element signature="e#10176#10196#0" expanded="true" />
+            <element signature="e#10235#10255#0" expanded="true" />
+            <element signature="e#10390#10405#0" expanded="true" />
+            <element signature="e#10605#10625#0" expanded="true" />
+            <element signature="e#10664#10684#0" expanded="true" />
+            <element signature="e#10819#10834#0" expanded="true" />
+            <element signature="e#11034#11054#0" expanded="true" />
+            <element signature="e#11093#11113#0" expanded="true" />
+            <element signature="e#11248#11263#0" expanded="true" />
+            <element signature="e#11463#11483#0" expanded="true" />
+            <element signature="e#11522#11542#0" expanded="true" />
+            <element signature="e#11675#11690#0" expanded="true" />
+            <element signature="e#11887#11907#0" expanded="true" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#12099#12114#0" expanded="true" />
             <element signature="e#12312#12332#0" expanded="true" />
             <element signature="e#12371#12391#0" expanded="true" />
             <element signature="e#12524#12539#0" expanded="true" />
-            <element signature="e#12737#12757#0" expanded="true" />
-            <element signature="e#12796#12816#0" expanded="true" />
-            <element signature="e#12949#12964#0" expanded="true" />
-            <element signature="e#13162#13182#0" expanded="true" />
-            <element signature="e#13221#13241#0" expanded="true" />
-            <element signature="e#13374#13389#0" expanded="true" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/DrawingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1096#1144#0" expanded="false" />
+            <element signature="e#1922#1923#0" expanded="false" />
+            <element signature="e#1960#1961#0" expanded="false" />
+            <element signature="e#1997#1998#0" expanded="false" />
+            <element signature="e#2033#2034#0" expanded="false" />
+            <element signature="e#4222#4223#0" expanded="false" />
+            <element signature="e#4250#4251#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-android-sdk-4.4.1/facebook/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.28">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.92">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="e#563#588#0" expanded="true" />
+            <element signature="e#725#743#0" expanded="true" />
+            <element signature="e#1245#1263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/wuxiaoxiao/drawingfun/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36811024">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

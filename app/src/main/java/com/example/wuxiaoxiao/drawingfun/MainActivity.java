@@ -1,11 +1,11 @@
 package com.example.wuxiaoxiao.drawingfun;
 
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -14,10 +14,12 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
+import com.facebook.FacebookSdk;
+
 import java.util.UUID;
 
 
-public class MainActivity extends ActionBarActivity implements OnClickListener {
+public class MainActivity extends Activity implements OnClickListener {
 
     private DrawingView drawingView;
     private ImageButton currPaint, drawBtn, eraseBtn, newBtn, saveBtn;
@@ -26,6 +28,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        FacebookSdk.sdkInitialize(getApplicationContext());
         setContentView(R.layout.activity_main);
 
         drawingView = (DrawingView)findViewById(R.id.drawing);//the drawing wiew is in the layout with id = drawing
@@ -175,7 +178,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
                     dialog.dismiss();
                 }
             });
-            newDialog.setNegativeButton("Cancle", new DialogInterface.OnClickListener() {
+            newDialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     dialog.cancel();
