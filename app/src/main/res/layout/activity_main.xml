@@ -20,6 +20,13 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
+            android:id="@+id/share__btn"
+            android:contentDescription="@string/share"
+            android:src="@drawable/share_btn"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
             android:id="@+id/new_btn"
             android:contentDescription="@string/start_new"
             android:src="@drawable/new_pic"/>
