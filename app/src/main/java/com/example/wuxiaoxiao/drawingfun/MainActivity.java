@@ -223,19 +223,65 @@ public class MainActivity extends Activity implements OnClickListener {
     }
 
     public void send(View v){
-        drawingView.setDrawingCacheEnabled(true);
-        Bitmap image = drawingView.getDrawingCache();
-        Intent shareIntent = new Intent();
-        shareIntent.setAction(Intent.ACTION_SEND);
-        shareIntent.setType("image/jpeg");
+        if(imgName == null){
+            AlertDialog.Builder saveDialog = new  AlertDialog.Builder(this);
 
-        File toSend = new File(
-                Environment.getExternalStoragePublicDirectory(
-                        Environment.DIRECTORY_PICTURES
-                ), imgName
-        );
-        shareIntent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(toSend));
-        startActivity(shareIntent);
+            saveDialog.setMessage("Your drawing must be saved before sending");
+            saveDialog.setPositiveButton("Save and send", new DialogInterface.OnClickListener(){
+                public void onClick(DialogInterface dialog, int which){
+                    drawingView.setDrawingCacheEnabled(true);
+                    String imgSaved = MediaStore.Images.Media.insertImage(
+                            getContentResolver(), drawingView.getDrawingCache(),
+                            UUID.randomUUID().toString()+".jpg", "drawing"
+                    );
+                    imgName = UUID.randomUUID().toString()+".jpg";
+                    if(imgSaved!=null){
+                        Toast savedToast = Toast.makeText(getApplicationContext(),
+                                "Drawing saved to Gallery!", Toast.LENGTH_SHORT);
+                        savedToast.show();
+
+                        Intent shareIntent = new Intent();
+                        shareIntent.setAction(Intent.ACTION_SEND);
+                        shareIntent.setType("image/jpeg");
+
+                        File toSend = new File(
+                                Environment.getExternalStoragePublicDirectory(
+                                        Environment.DIRECTORY_PICTURES
+                                ), imgName
+                        );
+                        shareIntent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(toSend));
+                        startActivity(shareIntent);
+
+                    }
+                    else{
+                        Toast unsavedToast = Toast.makeText(getApplicationContext(),
+                                "Oops! Image could not be saved.", Toast.LENGTH_SHORT);
+                        unsavedToast.show();
+                    }
+                    drawingView.destroyDrawingCache();
+                }
+            });
+            saveDialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener(){
+                public void onClick(DialogInterface dialog, int which){
+                    dialog.cancel();
+                }
+            });
+            saveDialog.show();
+        }else {
+            drawingView.setDrawingCacheEnabled(true);
+            Bitmap image = drawingView.getDrawingCache();
+            Intent shareIntent = new Intent();
+            shareIntent.setAction(Intent.ACTION_SEND);
+            shareIntent.setType("image/jpeg");
+
+            File toSend = new File(
+                    Environment.getExternalStoragePublicDirectory(
+                            Environment.DIRECTORY_PICTURES
+                    ), imgName
+            );
+            shareIntent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(toSend));
+            startActivity(shareIntent);
+        }
     }
 
     public void changeBackground(String str){
