@@ -28,11 +28,16 @@ public class DrawingView extends View {
     private Bitmap canvasBitmap;
     private ArrayList<Point> circlePoints;
 
+
     private boolean erase = false, circle = false;
 
     public DrawingView(Context context, AttributeSet attrs) {
         super(context, attrs);
         setUpDrawing();
+    }
+
+    public Bitmap getBitmap(){
+        return canvasBitmap;
     }
 
     public void setUpDrawing(){

@@ -4,7 +4,11 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.graphics.Bitmap;
+import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
 import android.provider.MediaStore;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -16,6 +20,7 @@ import android.widget.Toast;
 
 import com.facebook.FacebookSdk;
 
+import java.io.File;
 import java.util.UUID;
 
 
@@ -24,6 +29,8 @@ public class MainActivity extends Activity implements OnClickListener {
     private DrawingView drawingView;
     private ImageButton currPaint, drawBtn, eraseBtn, newBtn, saveBtn;
     private float smallBrush, mediumBrush, largeBrush;
+    private String imgName;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -79,11 +86,7 @@ public class MainActivity extends Activity implements OnClickListener {
     public void paintClicked(View view){
         drawingView.setErase(false);
         drawingView.setBrushSize(drawingView.getLastBrushSize());
-        if(view.getId() == R.id.circle){
-            drawingView.isCircle(true);
-        }else if (view.getId() == R.id.stroke){
-            drawingView.isCircle(false);
-        }if(view != currPaint){// view is the button clicked, first check that it is not already selected
+        if(view != currPaint){// view is the button clicked, first check that it is not already selected
             ImageButton imgView = (ImageButton)view;
             String color = view.getTag().toString();
             drawingView.setColor(color);
@@ -95,7 +98,7 @@ public class MainActivity extends Activity implements OnClickListener {
     }
 
     @Override
-    public void onClick(View view){
+    public void onClick(View view){//add circle
         if(view.getId() == R.id.draw_btn){//draw btn is the current view
             final Dialog brushDialog = new Dialog(this);//parameter for dialog is android.app, this is refering to this app
             brushDialog.setTitle("Brush size");
@@ -194,8 +197,9 @@ public class MainActivity extends Activity implements OnClickListener {
                     drawingView.setDrawingCacheEnabled(true);
                     String imgSaved = MediaStore.Images.Media.insertImage(
                             getContentResolver(), drawingView.getDrawingCache(),
-                            UUID.randomUUID().toString()+".png", "drawing"
+                            UUID.randomUUID().toString()+".jpg", "drawing"
                     );
+                    imgName = UUID.randomUUID().toString()+".jpg";
                     if(imgSaved!=null){
                         Toast savedToast = Toast.makeText(getApplicationContext(),
                                 "Drawing saved to Gallery!", Toast.LENGTH_SHORT);
@@ -216,6 +220,22 @@ public class MainActivity extends Activity implements OnClickListener {
             });
             saveDialog.show();
         }
+    }
+
+    public void send(View v){
+        drawingView.setDrawingCacheEnabled(true);
+        Bitmap image = drawingView.getDrawingCache();
+        Intent shareIntent = new Intent();
+        shareIntent.setAction(Intent.ACTION_SEND);
+        shareIntent.setType("image/jpeg");
+
+        File toSend = new File(
+                Environment.getExternalStoragePublicDirectory(
+                        Environment.DIRECTORY_PICTURES
+                ), imgName
+        );
+        shareIntent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(toSend));
+        startActivity(shareIntent);
     }
 
     public void changeBackground(String str){
@@ -263,7 +283,6 @@ public class MainActivity extends Activity implements OnClickListener {
         changeBackground("bear");
     }
 
-    public void setBlank(View v){
-        changeBackground("");
+    public void setBlank(View v){ changeBackground("");
     }
 }

@@ -20,9 +20,10 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
-            android:id="@+id/share__btn"
+            android:id="@+id/share_btn"
             android:contentDescription="@string/share"
-            android:src="@drawable/share_btn"/>
+            android:src="@drawable/share_btn"
+            android:onClick="send"/>
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -57,11 +58,6 @@
             android:layout_height="fill_parent"
             android:id="@+id/circle"
             android:src="@drawable/circlethumbnail"/>
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:id="@+id/stroke"
-            android:src="@drawable/strokethumbnail"/>
     </LinearLayout>
 
     <LinearLayout
