@@ -219,6 +219,10 @@ public class MainActivity extends Activity implements OnClickListener {
                 }
             });
             saveDialog.show();
+        }else if(view.getId() == R.id.circle_btn){
+            ImageButton d = (ImageButton) findViewById(R.id.circle_btn);
+            d.setBackgroundResource(R.drawable.strokethumbnail);
+            drawingView.changeCirc();
         }
     }
 

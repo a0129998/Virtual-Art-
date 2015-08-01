@@ -141,8 +141,12 @@ public class DrawingView extends View {
         invalidate();//update
     }
 
-    public void isCircle(boolean cir){
-        circle = cir;
+    public void changeCirc(){
+        if(circle){
+            circle = false;
+        }else{
+            circle = true;
+        }
     }
 
 }

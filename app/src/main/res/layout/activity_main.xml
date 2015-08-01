@@ -56,8 +56,9 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
-            android:id="@+id/circle"
-            android:src="@drawable/circlethumbnail"/>
+            android:id="@+id/circle_btn"
+            android:src="@drawable/circlethumbnail"
+            android:onClick="change"/>
     </LinearLayout>
 
     <LinearLayout
