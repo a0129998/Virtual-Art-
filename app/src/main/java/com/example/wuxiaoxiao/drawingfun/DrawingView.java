@@ -43,6 +43,7 @@ public class DrawingView extends View {
     public void setUpDrawing(){
         drawPath = new Path();
         drawPaint = new Paint();
+        //circlePaint = new Paint();
 
         brushSize = getResources().getInteger(R.integer.medium_size);
         lastBrushSize = brushSize;
@@ -98,7 +99,7 @@ public class DrawingView extends View {
         float touchX = event.getX();
         float touchY = event.getY();
         if(circle) {
-            circlePoints.add(new Point(Math.round(touchX), Math.round(touchX)));
+            circlePoints.add(new Point(Math.round(touchX), Math.round(touchY)));
         }else {
 
             switch (event.getAction()) {

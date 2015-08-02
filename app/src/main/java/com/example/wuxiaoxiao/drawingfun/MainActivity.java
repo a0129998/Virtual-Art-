@@ -5,7 +5,6 @@ import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -222,7 +221,7 @@ public class MainActivity extends Activity implements OnClickListener {
         }
     }
 
-   /* public void changeCirc(View v){
+    /*public void changeCirc(View v){
         ImageButton d = (ImageButton) findViewById(R.id.circle_btn);
         d.setBackgroundResource(R.drawable.strokethumbnail);
         drawingView.changeCirc();
@@ -238,9 +237,9 @@ public class MainActivity extends Activity implements OnClickListener {
                     drawingView.setDrawingCacheEnabled(true);
                     String imgSaved = MediaStore.Images.Media.insertImage(
                             getContentResolver(), drawingView.getDrawingCache(),
-                            UUID.randomUUID().toString()+".jpg", "drawing"
+                            UUID.randomUUID().toString()+".jpeg", "drawing"
                     );
-                    imgName = UUID.randomUUID().toString()+".jpg";
+                    imgName = UUID.randomUUID().toString()+".jpeg";
                     if(imgSaved!=null){
                         Toast savedToast = Toast.makeText(getApplicationContext(),
                                 "Drawing saved to Gallery!", Toast.LENGTH_SHORT);
@@ -275,7 +274,7 @@ public class MainActivity extends Activity implements OnClickListener {
             saveDialog.show();
         }else {
             drawingView.setDrawingCacheEnabled(true);
-            Bitmap image = drawingView.getDrawingCache();
+            //Bitmap image = drawingView.getDrawingCache();
             Intent shareIntent = new Intent();
             shareIntent.setAction(Intent.ACTION_SEND);
             shareIntent.setType("image/jpeg");
