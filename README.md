@@ -4,9 +4,12 @@ Team name: 20,000 leagues under the sea
 
 ###Project name: Virtual Art
 
-Student 1 name: Wu XiaoXiao
+Student 1 name: Wu XiaoXiao 
+
 Student 2 name: Nguyen Hong Van
+
 Project scope: Android application
+
 Aimed level of achievement: Project Gemini
 
 ###Motivation: 
